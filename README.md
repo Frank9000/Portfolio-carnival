@@ -10,3 +10,5 @@ better github management
 GC project start
 
 checklist and goals
+
+Not building portfolio here. Decided to post goals and work in progress.
